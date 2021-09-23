@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "159812752882",
+    "project_id": "surosa-supercenter",
+    "storage_bucket": "surosa-supercenter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159812752882:android:6a1e8821757c679125876b",
+        "android_client_info": {
+          "package_name": "com.example.surosasupercenter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159812752882-k7fp691af4er086r5j5qrmoj5uqh4ku2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.surosasupercenter",
+            "certificate_hash": "47b59f7e1181b096bc7e9cbdc59fda6fcae7e555"
+          }
+        },
+        {
+          "client_id": "159812752882-p46di6on2fgfl2bh3qf602kd29eo43ca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN7YF_dHnjgoyITsA14vpKEE9Cjza-XzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159812752882-p46di6on2fgfl2bh3qf602kd29eo43ca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
