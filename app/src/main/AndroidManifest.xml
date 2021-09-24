@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SurosaSupercenter">
         <activity
+            android:name=".registerActivity"
+            android:exported="true" />
+        <activity
             android:name=".CartActivity"
             android:exported="true" />
         <activity
