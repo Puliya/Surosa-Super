@@ -13,7 +13,13 @@
             android:name=".registerActivity"
             android:exported="true" />
         <activity
-            android:name=".CartActivity"
+            android:name=".AdminAddNewProductActivity"
+            android:exported="true" />
+        <activity
+            android:name=".AdminCategoryActivity"
+            android:exported="true" />
+        <activity
+            android:name=".loginActivity2"
             android:exported="true" />
         <activity
             android:name=".MainActivity"
