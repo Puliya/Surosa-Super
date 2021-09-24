@@ -57,20 +57,6 @@
             android:layout_below="@+id/login_password_input"
             android:layout_marginTop="5dp"
             >
-            <com.rey.material.widget.CheckBox
-                android:id="@+id/remember_me_chkb"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                style="@style/Material.Drawable.CheckBox"
-                android:text="Remember Me?"
-                android:layout_marginTop="10dp"
-                android:textColor="@color/purple_200"
-                app:cbd_strokeColour="@colour/purple_200"
-                android:gravity="center_vertical"
-                android:textSize="16sp"
-                android:textStyle="bold"
-                android:layout_marginLeft="17dp"
-                                />
 
                 <TextView
                     android:id="@+id/forget_password_link"
@@ -81,7 +67,7 @@
                     android:textColor="@color/purple_200"
                     android:textStyle="bold"
                     android:textSize="17sp"
-                    android:layout_marginLeft="80dp"
+                    android:layout_marginLeft="120dp"
                                        />
         </LinearLayout>
 

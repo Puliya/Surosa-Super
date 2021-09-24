@@ -1,4 +1,4 @@
-package com.example.surosasupercenter;
+/*package com.example.surosasupercenter;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
@@ -32,4 +32,4 @@ public class CartActivity extends AppCompatActivity
 
 
     }
-}
+}*/
