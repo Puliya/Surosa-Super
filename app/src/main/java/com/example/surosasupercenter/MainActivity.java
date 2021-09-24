@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
-        //Hutto ikmanat ghnpn
 
-        //hello
     }
 }
