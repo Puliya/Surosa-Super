@@ -53,7 +53,7 @@ public class AdminCategoryActivity extends AppCompatActivity
             public void onClick(View view)
             {
                 Intent intent = new Intent(AdminCategoryActivity.this, AdminAddNewProductActivity.class);
-                intent.putExtra( name: "category", value: "households");
+                intent.putExtra("category", "households");
                 startActivity(intent);
 
             }
@@ -64,7 +64,7 @@ public class AdminCategoryActivity extends AppCompatActivity
             public void onClick(View view)
             {
                 Intent intent = new Intent(AdminCategoryActivity.this, AdminAddNewProductActivity.class);
-                intent.putExtra( name: "category", value: "groceries");
+                intent.putExtra("category", "groceries");
                 startActivity(intent);
 
             }
